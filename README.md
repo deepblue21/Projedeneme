@@ -1,0 +1,2 @@
+# Projedeneme
+ilk repository denemem
